@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
 	"heroku-postbuild": "next build",
-    "start": "next start -p $PORT",
+    "start": "next start -p $PORT"
   },
   "dependencies": {
     "next": "^10.0.0",
