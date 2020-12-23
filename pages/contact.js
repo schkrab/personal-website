@@ -30,7 +30,7 @@ export default function Home() {
 								<a href="https://medium.com/@igorsalves87" target="_blank">medium</a>&nbsp;|&nbsp;
 								<a href="https://github.com/schkrab" target="_blank">github</a>&nbsp;|&nbsp;
 								<a href="https://www.linkedin.com/in/igorsalves87/" target="_blank">linkedin</a>&nbsp;|&nbsp;
-								<Link href="/files/Igor Schkrab Alves - Resume.pdf" target="_blank"><a>resume</a></Link>&nbsp;|&nbsp;
+								<Link href="/files/Igor Schkrab Alves - Resume.pdf"><a target="_blank">resume</a></Link>&nbsp;|&nbsp;
 								<Link href="/contact"><a>contact</a></Link>
 							</p>
 						</div>
