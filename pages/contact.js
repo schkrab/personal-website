@@ -12,10 +12,9 @@ export default function Home() {
 			</Head>
 		
 			  
-			<div className="row h-100">
-				<div className="col-sm-4 my-auto">
-				</div>
-				<div className="col-sm-4 my-auto">
+			<div className="row">
+				
+				<div className="col-sm my-auto">
 					<div className="row">
 						<div className="col-sm-12 align-center">
 							<strong><h1>Igor Schkrab Alves</h1></strong>
@@ -39,18 +38,24 @@ export default function Home() {
 					<br/>
 					<div className="row">
 						<div className="col-sm-12 align-center">
-							<p>That's me! <strong>I hope you like it. ;)</strong></p>
+							<h3>Contact me at igorsalves87@gmail.com</h3>
+							<br/>
+							<hr/>
 						</div>
 					</div>
 					
-										
-				</div>
-				<div className="col-sm-4 my-auto">
+					<div className="row">
+						<div className="col-sm-8 align-center">
+							<p>
+								Meeting new people is always great. So if you would like to grab a cup of coffee somewhere (or during this pandemic times a videoconference) shoot me an e-mail.
+								I don't have Instagram or Facebook as I feel they don't provide me any value and I'm happy with the amount of privacy I have since I left those social medias, but I still really enjoy meeting new people, talking, playing boardgames and having a great time during a conversation.
+							</p> 
+							
+						</div>
+					</div>										
 				</div>
 			  </div>
  
-  
-			
 			<style jsx global>{`
 				
 
@@ -60,7 +65,7 @@ html,
       div#__next,
       div#__next > div,
       div#__next > div > div {
-        height: 100%;
+       
       }
 
 body {
